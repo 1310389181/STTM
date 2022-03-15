@@ -1,0 +1,200 @@
+d:\Users\geoman\source\repos\STTM_PJ01\bin\Debug\STTM_PJ01.exe.config
+d:\Users\geoman\source\repos\STTM_PJ01\bin\Debug\STTM_PJ01.exe
+d:\Users\geoman\source\repos\STTM_PJ01\bin\Debug\STTM_PJ01.pdb
+d:\Users\geoman\source\repos\STTM_PJ01\obj\Debug\STTM_PJ01.csprojAssemblyReference.cache
+d:\Users\geoman\source\repos\STTM_PJ01\obj\Debug\STTM_PJ01.Form1.resources
+d:\Users\geoman\source\repos\STTM_PJ01\obj\Debug\STTM_PJ01.Properties.Resources.resources
+d:\Users\geoman\source\repos\STTM_PJ01\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+d:\Users\geoman\source\repos\STTM_PJ01\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+d:\Users\geoman\source\repos\STTM_PJ01\obj\Debug\STTM_PJ01.exe
+d:\Users\geoman\source\repos\STTM_PJ01\obj\Debug\STTM_PJ01.pdb
+E:\Program\C#\STTM_PJ01\bin\Debug\STTM_PJ01.exe.config
+E:\Program\C#\STTM_PJ01\bin\Debug\STTM_PJ01.exe
+E:\Program\C#\STTM_PJ01\bin\Debug\STTM_PJ01.pdb
+E:\Program\C#\STTM_PJ01\obj\Debug\STTM_PJ01.csprojAssemblyReference.cache
+E:\Program\C#\STTM_PJ01\obj\Debug\STTM_PJ01.Form1.resources
+E:\Program\C#\STTM_PJ01\obj\Debug\STTM_PJ01.Properties.Resources.resources
+E:\Program\C#\STTM_PJ01\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+E:\Program\C#\STTM_PJ01\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+E:\Program\C#\STTM_PJ01\obj\Debug\STTM_PJ01.exe
+E:\Program\C#\STTM_PJ01\obj\Debug\STTM_PJ01.pdb
+C:\Users\Administrator\Desktop\cd\STTM_PJ01\bin\Debug\STTM_PJ01.exe.config
+C:\Users\Administrator\Desktop\cd\STTM_PJ01\bin\Debug\STTM_PJ01.exe
+C:\Users\Administrator\Desktop\cd\STTM_PJ01\bin\Debug\STTM_PJ01.pdb
+C:\Users\Administrator\Desktop\cd\STTM_PJ01\obj\Debug\STTM_PJ01.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\cd\STTM_PJ01\obj\Debug\STTM_PJ01.Form1.resources
+C:\Users\Administrator\Desktop\cd\STTM_PJ01\obj\Debug\STTM_PJ01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\cd\STTM_PJ01\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\cd\STTM_PJ01\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cd\STTM_PJ01\obj\Debug\STTM_PJ01.exe
+C:\Users\Administrator\Desktop\cd\STTM_PJ01\obj\Debug\STTM_PJ01.pdb
+C:\Users\李爱国\Desktop\SEIR模型突破\实验\调参\sttm\STTM_PJ06\bin\Debug\STTM_PJ01.exe.config
+C:\Users\李爱国\Desktop\SEIR模型突破\实验\调参\sttm\STTM_PJ06\bin\Debug\STTM_PJ01.exe
+C:\Users\李爱国\Desktop\SEIR模型突破\实验\调参\sttm\STTM_PJ06\bin\Debug\STTM_PJ01.pdb
+C:\Users\李爱国\Desktop\SEIR模型突破\实验\调参\sttm\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+C:\Users\李爱国\Desktop\SEIR模型突破\实验\调参\sttm\STTM_PJ06\obj\Debug\STTM_PJ01.Form1.resources
+C:\Users\李爱国\Desktop\SEIR模型突破\实验\调参\sttm\STTM_PJ06\obj\Debug\STTM_PJ01.Properties.Resources.resources
+C:\Users\李爱国\Desktop\SEIR模型突破\实验\调参\sttm\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+C:\Users\李爱国\Desktop\SEIR模型突破\实验\调参\sttm\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+C:\Users\李爱国\Desktop\SEIR模型突破\实验\调参\sttm\STTM_PJ06\obj\Debug\STTM_PJ01.exe
+C:\Users\李爱国\Desktop\SEIR模型突破\实验\调参\sttm\STTM_PJ06\obj\Debug\STTM_PJ01.pdb
+F:\SEIR实验\case study\人工数据集\人工数据集的代码\STTM_PJ06\bin\Debug\STTM_PJ01.exe.config
+F:\SEIR实验\case study\人工数据集\人工数据集的代码\STTM_PJ06\bin\Debug\STTM_PJ01.exe
+F:\SEIR实验\case study\人工数据集\人工数据集的代码\STTM_PJ06\bin\Debug\STTM_PJ01.pdb
+F:\SEIR实验\case study\人工数据集\人工数据集的代码\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+F:\SEIR实验\case study\人工数据集\人工数据集的代码\STTM_PJ06\obj\Debug\STTM_PJ01.Form1.resources
+F:\SEIR实验\case study\人工数据集\人工数据集的代码\STTM_PJ06\obj\Debug\STTM_PJ01.Properties.Resources.resources
+F:\SEIR实验\case study\人工数据集\人工数据集的代码\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+F:\SEIR实验\case study\人工数据集\人工数据集的代码\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+F:\SEIR实验\case study\人工数据集\人工数据集的代码\STTM_PJ06\obj\Debug\STTM_PJ01.exe
+F:\SEIR实验\case study\人工数据集\人工数据集的代码\STTM_PJ06\obj\Debug\STTM_PJ01.pdb
+F:\SEIR实验\case study\人工数据集\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\bin\Debug\STTM_PJ01.exe.config
+F:\SEIR实验\case study\人工数据集\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\bin\Debug\STTM_PJ01.exe
+F:\SEIR实验\case study\人工数据集\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\bin\Debug\STTM_PJ01.pdb
+F:\SEIR实验\case study\人工数据集\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+F:\SEIR实验\case study\人工数据集\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.Form1.resources
+F:\SEIR实验\case study\人工数据集\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.Properties.Resources.resources
+F:\SEIR实验\case study\人工数据集\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+F:\SEIR实验\case study\人工数据集\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+F:\SEIR实验\case study\人工数据集\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.exe
+F:\SEIR实验\case study\人工数据集\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.pdb
+F:\SEIR实验\手工数据（3个城市）\无感染者\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\bin\Debug\STTM_PJ01.exe.config
+F:\SEIR实验\手工数据（3个城市）\无感染者\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\bin\Debug\STTM_PJ01.exe
+F:\SEIR实验\手工数据（3个城市）\无感染者\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\bin\Debug\STTM_PJ01.pdb
+F:\SEIR实验\手工数据（3个城市）\无感染者\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+F:\SEIR实验\手工数据（3个城市）\无感染者\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.Form1.resources
+F:\SEIR实验\手工数据（3个城市）\无感染者\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.Properties.Resources.resources
+F:\SEIR实验\手工数据（3个城市）\无感染者\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+F:\SEIR实验\手工数据（3个城市）\无感染者\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+F:\SEIR实验\手工数据（3个城市）\无感染者\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.exe
+F:\SEIR实验\手工数据（3个城市）\无感染者\人工数据集的代码（初始疫情城市不能流动）\STTM_PJ06\obj\Debug\STTM_PJ01.pdb
+F:\SEIR实验\手工数据（3个城市）\有感染者\人工数据集的代码（初始疫情城市可以流动）\STTM_PJ06\bin\Debug\STTM_PJ01.exe.config
+F:\SEIR实验\手工数据（3个城市）\有感染者\人工数据集的代码（初始疫情城市可以流动）\STTM_PJ06\bin\Debug\STTM_PJ01.exe
+F:\SEIR实验\手工数据（3个城市）\有感染者\人工数据集的代码（初始疫情城市可以流动）\STTM_PJ06\bin\Debug\STTM_PJ01.pdb
+F:\SEIR实验\手工数据（3个城市）\有感染者\人工数据集的代码（初始疫情城市可以流动）\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+F:\SEIR实验\手工数据（3个城市）\有感染者\人工数据集的代码（初始疫情城市可以流动）\STTM_PJ06\obj\Debug\STTM_PJ01.Form1.resources
+F:\SEIR实验\手工数据（3个城市）\有感染者\人工数据集的代码（初始疫情城市可以流动）\STTM_PJ06\obj\Debug\STTM_PJ01.Properties.Resources.resources
+F:\SEIR实验\手工数据（3个城市）\有感染者\人工数据集的代码（初始疫情城市可以流动）\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+F:\SEIR实验\手工数据（3个城市）\有感染者\人工数据集的代码（初始疫情城市可以流动）\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+F:\SEIR实验\手工数据（3个城市）\有感染者\人工数据集的代码（初始疫情城市可以流动）\STTM_PJ06\obj\Debug\STTM_PJ01.exe
+F:\SEIR实验\手工数据（3个城市）\有感染者\人工数据集的代码（初始疫情城市可以流动）\STTM_PJ06\obj\Debug\STTM_PJ01.pdb
+F:\C#\读取文件\STTM_PJ06\bin\Debug\STTM_PJ01.exe.config
+F:\C#\读取文件\STTM_PJ06\bin\Debug\STTM_PJ01.exe
+F:\C#\读取文件\STTM_PJ06\bin\Debug\STTM_PJ01.pdb
+F:\C#\读取文件\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+F:\C#\读取文件\STTM_PJ06\obj\Debug\STTM_PJ01.Form1.resources
+F:\C#\读取文件\STTM_PJ06\obj\Debug\STTM_PJ01.Properties.Resources.resources
+F:\C#\读取文件\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+F:\C#\读取文件\STTM_PJ06\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+F:\C#\读取文件\STTM_PJ06\obj\Debug\STTM_PJ01.exe
+F:\C#\读取文件\STTM_PJ06\obj\Debug\STTM_PJ01.pdb
+F:\C#\读取文件\STTM_李子桐_8月3\bin\Debug\STTM_PJ01.exe.config
+F:\C#\读取文件\STTM_李子桐_8月3\bin\Debug\STTM_PJ01.exe
+F:\C#\读取文件\STTM_李子桐_8月3\bin\Debug\STTM_PJ01.pdb
+F:\C#\读取文件\STTM_李子桐_8月3\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+F:\C#\读取文件\STTM_李子桐_8月3\obj\Debug\STTM_PJ01.Form1.resources
+F:\C#\读取文件\STTM_李子桐_8月3\obj\Debug\STTM_PJ01.Properties.Resources.resources
+F:\C#\读取文件\STTM_李子桐_8月3\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+F:\C#\读取文件\STTM_李子桐_8月3\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+F:\C#\读取文件\STTM_李子桐_8月3\obj\Debug\STTM_PJ01.exe
+F:\C#\读取文件\STTM_李子桐_8月3\obj\Debug\STTM_PJ01.pdb
+F:\SEIR实验\手工数据(10个城市)\程序（可以流动）\bin\Debug\STTM_PJ01.exe.config
+F:\SEIR实验\手工数据(10个城市)\程序（可以流动）\bin\Debug\STTM_PJ01.exe
+F:\SEIR实验\手工数据(10个城市)\程序（可以流动）\bin\Debug\STTM_PJ01.pdb
+F:\SEIR实验\手工数据(10个城市)\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+F:\SEIR实验\手工数据(10个城市)\程序（可以流动）\obj\Debug\STTM_PJ01.Form1.resources
+F:\SEIR实验\手工数据(10个城市)\程序（可以流动）\obj\Debug\STTM_PJ01.Properties.Resources.resources
+F:\SEIR实验\手工数据(10个城市)\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+F:\SEIR实验\手工数据(10个城市)\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+F:\SEIR实验\手工数据(10个城市)\程序（可以流动）\obj\Debug\STTM_PJ01.exe
+F:\SEIR实验\手工数据(10个城市)\程序（可以流动）\obj\Debug\STTM_PJ01.pdb
+C:\Users\Administrator\Desktop\cd\程序（可以流动）\bin\Debug\STTM_PJ01.exe.config
+C:\Users\Administrator\Desktop\cd\程序（可以流动）\bin\Debug\STTM_PJ01.exe
+C:\Users\Administrator\Desktop\cd\程序（可以流动）\bin\Debug\STTM_PJ01.pdb
+C:\Users\Administrator\Desktop\cd\程序（可以流动）\obj\Debug\STTM_PJ01.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\cd\程序（可以流动）\obj\Debug\STTM_PJ01.Form1.resources
+C:\Users\Administrator\Desktop\cd\程序（可以流动）\obj\Debug\STTM_PJ01.Properties.Resources.resources
+C:\Users\Administrator\Desktop\cd\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\cd\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cd\程序（可以流动）\obj\Debug\STTM_PJ01.exe
+C:\Users\Administrator\Desktop\cd\程序（可以流动）\obj\Debug\STTM_PJ01.pdb
+F:\SEIR实验\case study\合成数据集\STTM代码\程序（可以流动）\bin\Debug\STTM_PJ01.exe.config
+F:\SEIR实验\case study\合成数据集\STTM代码\程序（可以流动）\bin\Debug\STTM_PJ01.exe
+F:\SEIR实验\case study\合成数据集\STTM代码\程序（可以流动）\bin\Debug\STTM_PJ01.pdb
+F:\SEIR实验\case study\合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+F:\SEIR实验\case study\合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.Form1.resources
+F:\SEIR实验\case study\合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.Properties.Resources.resources
+F:\SEIR实验\case study\合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+F:\SEIR实验\case study\合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+F:\SEIR实验\case study\合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.exe
+F:\SEIR实验\case study\合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.pdb
+E:\科研\STTM\程序整理\3.1合成数据集\STTM代码\程序（可以流动）\bin\Debug\STTM_PJ01.exe.config
+E:\科研\STTM\程序整理\3.1合成数据集\STTM代码\程序（可以流动）\bin\Debug\STTM_PJ01.exe
+E:\科研\STTM\程序整理\3.1合成数据集\STTM代码\程序（可以流动）\bin\Debug\STTM_PJ01.pdb
+E:\科研\STTM\程序整理\3.1合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+E:\科研\STTM\程序整理\3.1合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.Form1.resources
+E:\科研\STTM\程序整理\3.1合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.Properties.Resources.resources
+E:\科研\STTM\程序整理\3.1合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+E:\科研\STTM\程序整理\3.1合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+E:\科研\STTM\程序整理\3.1合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.exe
+E:\科研\STTM\程序整理\3.1合成数据集\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.pdb
+E:\Program\C#\STTM代码\STTM投稿\代码\STTM程序(注释版)\STTM代码\程序（可以流动）\bin\Debug\STTM_PJ01.exe.config
+E:\Program\C#\STTM代码\STTM投稿\代码\STTM程序(注释版)\STTM代码\程序（可以流动）\bin\Debug\STTM_PJ01.exe
+E:\Program\C#\STTM代码\STTM投稿\代码\STTM程序(注释版)\STTM代码\程序（可以流动）\bin\Debug\STTM_PJ01.pdb
+E:\Program\C#\STTM代码\STTM投稿\代码\STTM程序(注释版)\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.csprojAssemblyReference.cache
+E:\Program\C#\STTM代码\STTM投稿\代码\STTM程序(注释版)\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.Form1.resources
+E:\Program\C#\STTM代码\STTM投稿\代码\STTM程序(注释版)\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.Properties.Resources.resources
+E:\Program\C#\STTM代码\STTM投稿\代码\STTM程序(注释版)\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+E:\Program\C#\STTM代码\STTM投稿\代码\STTM程序(注释版)\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+E:\Program\C#\STTM代码\STTM投稿\代码\STTM程序(注释版)\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.exe
+E:\Program\C#\STTM代码\STTM投稿\代码\STTM程序(注释版)\STTM代码\程序（可以流动）\obj\Debug\STTM_PJ01.pdb
+E:\科研\STTM\窗口程序\程序（可以流动）\bin\Debug\STTM_PJ01.exe.config
+E:\科研\STTM\窗口程序\程序（可以流动）\bin\Debug\STTM_PJ01.exe
+E:\科研\STTM\窗口程序\程序（可以流动）\bin\Debug\STTM_PJ01.pdb
+E:\科研\STTM\窗口程序\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+E:\科研\STTM\窗口程序\程序（可以流动）\obj\Debug\STTM_PJ01.Form1.resources
+E:\科研\STTM\窗口程序\程序（可以流动）\obj\Debug\STTM_PJ01.Properties.Resources.resources
+E:\科研\STTM\窗口程序\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+E:\科研\STTM\窗口程序\程序（可以流动）\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+E:\科研\STTM\窗口程序\程序（可以流动）\obj\Debug\STTM_PJ01.exe
+E:\科研\STTM\窗口程序\程序（可以流动）\obj\Debug\STTM_PJ01.pdb
+E:\科研\STTM\窗口程序\STTM_program\bin\Debug\STTM_PJ01.exe.config
+E:\科研\STTM\窗口程序\STTM_program\bin\Debug\STTM_PJ01.exe
+E:\科研\STTM\窗口程序\STTM_program\bin\Debug\STTM_PJ01.pdb
+E:\科研\STTM\窗口程序\STTM_program\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+E:\科研\STTM\窗口程序\STTM_program\obj\Debug\STTM_PJ01.Form1.resources
+E:\科研\STTM\窗口程序\STTM_program\obj\Debug\STTM_PJ01.Properties.Resources.resources
+E:\科研\STTM\窗口程序\STTM_program\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+E:\科研\STTM\窗口程序\STTM_program\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+E:\科研\STTM\窗口程序\STTM_program\obj\Debug\STTM_PJ01.exe
+E:\科研\STTM\窗口程序\STTM_program\obj\Debug\STTM_PJ01.pdb
+E:\科研\STTM\STTM投稿\合成数据集数据\STTM_program\bin\Debug\STTM_PJ01.exe.config
+E:\科研\STTM\STTM投稿\合成数据集数据\STTM_program\bin\Debug\STTM_PJ01.exe
+E:\科研\STTM\STTM投稿\合成数据集数据\STTM_program\bin\Debug\STTM_PJ01.pdb
+E:\科研\STTM\STTM投稿\合成数据集数据\STTM_program\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+E:\科研\STTM\STTM投稿\合成数据集数据\STTM_program\obj\Debug\STTM_PJ01.Form1.resources
+E:\科研\STTM\STTM投稿\合成数据集数据\STTM_program\obj\Debug\STTM_PJ01.Properties.Resources.resources
+E:\科研\STTM\STTM投稿\合成数据集数据\STTM_program\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+E:\科研\STTM\STTM投稿\合成数据集数据\STTM_program\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+E:\科研\STTM\STTM投稿\合成数据集数据\STTM_program\obj\Debug\STTM_PJ01.exe
+E:\科研\STTM\STTM投稿\合成数据集数据\STTM_program\obj\Debug\STTM_PJ01.pdb
+E:\科研\STTM\STTM投稿\投稿英文代码\STTM_program\bin\Debug\STTM_PJ01.exe.config
+E:\科研\STTM\STTM投稿\投稿英文代码\STTM_program\bin\Debug\STTM_PJ01.exe
+E:\科研\STTM\STTM投稿\投稿英文代码\STTM_program\bin\Debug\STTM_PJ01.pdb
+E:\科研\STTM\STTM投稿\投稿英文代码\STTM_program\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+E:\科研\STTM\STTM投稿\投稿英文代码\STTM_program\obj\Debug\STTM_PJ01.Form1.resources
+E:\科研\STTM\STTM投稿\投稿英文代码\STTM_program\obj\Debug\STTM_PJ01.Properties.Resources.resources
+E:\科研\STTM\STTM投稿\投稿英文代码\STTM_program\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+E:\科研\STTM\STTM投稿\投稿英文代码\STTM_program\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+E:\科研\STTM\STTM投稿\投稿英文代码\STTM_program\obj\Debug\STTM_PJ01.exe
+E:\科研\STTM\STTM投稿\投稿英文代码\STTM_program\obj\Debug\STTM_PJ01.pdb
+E:\科研\STTM\STTM投稿\github\STTM_program\bin\Debug\STTM_PJ01.exe.config
+E:\科研\STTM\STTM投稿\github\STTM_program\bin\Debug\STTM_PJ01.exe
+E:\科研\STTM\STTM投稿\github\STTM_program\bin\Debug\STTM_PJ01.pdb
+E:\科研\STTM\STTM投稿\github\STTM_program\obj\Debug\STTM_PJ01.csproj.AssemblyReference.cache
+E:\科研\STTM\STTM投稿\github\STTM_program\obj\Debug\STTM_PJ01.Form1.resources
+E:\科研\STTM\STTM投稿\github\STTM_program\obj\Debug\STTM_PJ01.Properties.Resources.resources
+E:\科研\STTM\STTM投稿\github\STTM_program\obj\Debug\STTM_PJ01.csproj.GenerateResource.cache
+E:\科研\STTM\STTM投稿\github\STTM_program\obj\Debug\STTM_PJ01.csproj.CoreCompileInputs.cache
+E:\科研\STTM\STTM投稿\github\STTM_program\obj\Debug\STTM_PJ01.exe
+E:\科研\STTM\STTM投稿\github\STTM_program\obj\Debug\STTM_PJ01.pdb
