@@ -12,6 +12,7 @@ The synthetic dataset is used to verify the correctness of the code and demonstr
 
 (a) The 16 sub-regions in the study area. (b) Initial population structure data of each sub-region, and  City 2 has the initial patient. (c) Daily population flow data between sub-regions. (d) Simulated infectious disease parameters.
 ![p1](https://github.com/1310389181/STTM/blob/main/image/1.png?raw=true)
+![p10](https://github.com/1310389181/STTM/blob/main/image/1.png?raw=true)
 ### 1.2.2 Real-world dataset
 
 The real-world dataset will be used to simulate the spatiotemporal transmission process of the COVID-19 epidemic in the Chinese mainland from January 1, 2020 to January 22, 2020. (a) This map shows the spatial distribution of early-stage infections in China, which can be combined with demographic data to construct population structure data. (b) Daily population flow data between cities in China. (c) Real infectious disease parameters.
